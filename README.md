@@ -14,7 +14,7 @@ To optimize challenge website for search engines.
 
 ## Example
 
-I changed the divs to sections 
+I changed the divs to sections.
 
 
 ## License
