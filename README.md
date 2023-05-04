@@ -15,6 +15,7 @@ To optimize challenge website for search engines.
 3. I added alt attributes to each image.
 4. I added a title to the project (Horiseon).
 5. The HTML is structured in sequential order.
+6. I consolidated the css. 
 
 ## Example
 
